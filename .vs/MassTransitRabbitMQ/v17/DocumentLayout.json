@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5D8ED-8862-4C0D-BFBB-89A629710A00}|ConsumerService\\ConsumerService.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5D8ED-8862-4C0D-BFBB-89A629710A00}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\ProducerService.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\producer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\ProducerService.csproj|solutionrelative:producer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\ProducerService.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\ProducerService.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\ProducerService.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\producer\\producerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\ProducerService.csproj|solutionrelative:producer\\producerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\Producer.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\producer\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\Producer.csproj|solutionrelative:producer\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889187BF-DD67-478B-B205-406B39467515}|SharedModels\\SharedModels.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\sharedmodels\\iusercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889187BF-DD67-478B-B205-406B39467515}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\iusercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5D8ED-8862-4C0D-BFBB-89A629710A00}|ConsumerService\\ConsumerService.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\consumerservice\\usercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5D8ED-8862-4C0D-BFBB-89A629710A00}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\usercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\Producer.csproj|d:\\rnd\\rabbitmq\\masstransitrabbitmq\\producer\\service\\iuserservicemasstransit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E3383-DA19-4903-B693-AFA5153402F1}|Producer\\Producer.csproj|solutionrelative:producer\\service\\iuserservicemasstransit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Producer\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Producer\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:00:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Producer\\Program.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Program.cs",
+              "RelativeToolTip": "Producer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:38:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProducerService",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\ProducerService.csproj",
+              "RelativeDocumentMoniker": "Producer\\ProducerService.csproj",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\ProducerService.csproj",
+              "RelativeToolTip": "Producer\\ProducerService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T13:37:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCreatedConsumer.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\ConsumerService\\UserCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\UserCreatedConsumer.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\ConsumerService\\UserCreatedConsumer.cs",
+              "RelativeToolTip": "ConsumerService\\UserCreatedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:19:15.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserCreated.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\SharedModels\\IUserCreated.cs",
+              "RelativeDocumentMoniker": "SharedModels\\IUserCreated.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\SharedModels\\IUserCreated.cs",
+              "RelativeToolTip": "SharedModels\\IUserCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:19:02.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Producer\\Service\\UserService.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Service\\UserService.cs",
+              "RelativeToolTip": "Producer\\Service\\UserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:08:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserServiceMassTransit.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Service\\IUserServiceMassTransit.cs",
+              "RelativeDocumentMoniker": "Producer\\Service\\IUserServiceMassTransit.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\Producer\\Service\\IUserServiceMassTransit.cs",
+              "RelativeToolTip": "Producer\\Service\\IUserServiceMassTransit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:08:34.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\ConsumerService\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\Program.cs",
+              "ToolTip": "D:\\RND\\RabbitMQ\\MassTransitRabbitMQ\\ConsumerService\\Program.cs",
+              "RelativeToolTip": "ConsumerService\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:12:02.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
