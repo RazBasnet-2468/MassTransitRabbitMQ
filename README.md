@@ -1,4 +1,4 @@
-Description
+
 This project demonstrates how to implement messaging in a .NET 8 application using both MassTransit and RabbitMQ.Client. It includes two different approaches for producing and consuming messages via RabbitMQ:
 
 MassTransit: A powerful, flexible library that simplifies the process of message-based communication in distributed systems by providing a high-level API for message publishing and consumption.
