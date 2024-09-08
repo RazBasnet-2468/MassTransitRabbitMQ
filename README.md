@@ -34,6 +34,7 @@ This setup provides a practical example of how to integrate RabbitMQ with .NET 8
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [RabbitMQ](https://www.rabbitmq.com/download.html)
+- [MassTransit](https://masstransit.io/quick-starts/rabbitmq)
 
 ## Installation and Setup
 
